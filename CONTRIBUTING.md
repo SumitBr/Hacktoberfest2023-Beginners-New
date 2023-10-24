@@ -19,15 +19,15 @@
 - Bio: Graphics and UI designer, content writer, AI/ML enthusiast.
 - Affiliation : Indira Gandhi Delhi Technical University for Women
 - GitHub: [rishikasuhag](https://github.com/rishikasuhag)
-=======
+
+
 #### Name: [Simran Verma](https://github.com/AkankshaAI)
 
 - Place: Varanasi, India
 - Bio: Coder, Frontend Developer
 - Affiliation : Kalinga Institute of Industrial Technology, Bhubaneswar
 - GitHub: [Simranverma123](https://github.com/Simranverma123)
-=======
->>>>>>> main
+
 
 #### Name: [Namya Jain](https://github.com/Namya13Jain)
 
@@ -36,7 +36,7 @@
 - Affiliation : Indira Gandhi Delhi Technical University for Women 
 - GitHub: [Namya13Jain](https://github.com/Namya13Jain)
 
->>>>>>> main
+
 #### Name: [aecuto](https://github.com/aecuto)
 
 - Place: Thailand
@@ -44,7 +44,7 @@
 - Affiliation : CNX University
 - GitHub: [aecuto](https://github.com/aecuto)
 
->>>>>>> main
+
 #### Name: [Spandan Tripathy](https://github.com/CrypticRevenger)
 
 - Place: Berhampur,Odisha,India
@@ -60,7 +60,6 @@
 - GitHub:  [Anusha Tomar](https://github.com/anushatomar13)
 
 
-<<<<<<< main
 
 #### Name: [Ishita Rakchhit](https://github.com/ishitarakchhit)
 
@@ -68,23 +67,23 @@
 - Bio: Frontend Developer, ML enthusiast, avid reader 
 - Affiliation : India Gandhi Delhi Technical University for Women
 - GitHub: [ishitarakchhit](https://github.com/ishitarakchhit)
-=======
+
 #### Name: [Vivek Chatterjee](https://github.com/VivekChatterjee)
 - Place: Jamshedpur, Jharkhand, India
 - Bio: Full Stack Developer, Open Source Contributor, Love Chess
 - Affiliation : Lovely Professional University, Punjab
 - GitHub: [VivekChatterjee](https://github.com/VivekChatterjee)
 
-
-
->>>>>>> main
 #### Name: [Aditi](https://github.com/aditi5926)
 
 - Place: Delhi, India
 - Bio: Passionate WebDeveloper
 - Affiliation : NSUT
 - Github: [Aditi](https://github.com/aditi5926)
-=======
->>>>>>> main
 
+#### Name: [Manish Kumar](https://github.com/ManishMK1)
 
+- Place: Dehradun, India
+- Bio: Passionate Full Stack Developer
+- Affiliation : DIT University, Dehradun
+- Github: [Manish Kumar](https://github.com/ManishMK1)
